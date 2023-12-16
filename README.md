@@ -4,7 +4,7 @@
 - cybersecurity and game development!
   
 - 🌱 i’m currently learning ...
-- playing around with pygame and learning java.
+- java, c++, and playing around with pygame.
   
 - 💞️ i’m looking to collaborate on ...
 - nothing yet - independently learning at the moment.
