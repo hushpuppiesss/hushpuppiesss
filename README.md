@@ -1,5 +1,5 @@
 # 💫 hi! i'm rachel!
-🏫 studying cybersecurity at stevens institute of technology<br>💡 interested in cybersecurity and game development<br>💭 working on my game, minnesota<br>🌱 learning html, css, javascript, and kotlin<br>📫 talk with me on discord! hushpuppiesss.
+🏫 studying computer science at stevens institute of technology<br>💡 interested in cybersecurity and game development<br>💭 working on my game, minnesota<br>🌱 learning html, css, javascript, and kotlin<br>📫 talk with me on discord! hushpuppiesss.
 
 
 # 💻 tech stack
