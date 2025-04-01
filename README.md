@@ -1,5 +1,5 @@
 # 💫 hi! i'm rachel!
-🏫 studying computer science at stevens institute of technology<br>💡 interested in penetration testing and game development<br>💭 working on my game, minnesota<br>🌱 learning web dev and kotlin<br>📫 reach out to me on discord ~ hushpuppiesss.
+🏫 studying computer science at stevens institute of technology<br>💡 interested in penetration testing and game development<br>💭 working on my game, minnesota<br>🌱 learning web dev and kotlin<br>📫 contact me! <br> discord | hushpuppiesss. <br> gmail | https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rachelquedding1611@gmail.com)
 
 
 # tech stack
